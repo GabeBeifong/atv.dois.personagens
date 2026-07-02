@@ -1,0 +1,16 @@
+body{
+    background-color: #c87777;
+}
+
+.btn-navegar {
+display: inline-block;
+padding: 12px 28px;
+background-color: #6C3FC5;
+color: white;
+text-decoration: none;
+border-radius: 8px;
+font-weight: bold;
+}
+.btn-navegar:hover {
+background-color: #4A2A8A;
+}
